@@ -1,0 +1,6 @@
+c:\users\emendez\documents\visual studio 2015\Projects\GitFeatures\GitFeatures\bin\Debug\GitFeatures.exe.config
+c:\users\emendez\documents\visual studio 2015\Projects\GitFeatures\GitFeatures\bin\Debug\GitFeatures.exe
+c:\users\emendez\documents\visual studio 2015\Projects\GitFeatures\GitFeatures\bin\Debug\GitFeatures.pdb
+c:\users\emendez\documents\visual studio 2015\Projects\GitFeatures\GitFeatures\obj\Debug\GitFeatures.csprojResolveAssemblyReference.cache
+c:\users\emendez\documents\visual studio 2015\Projects\GitFeatures\GitFeatures\obj\Debug\GitFeatures.exe
+c:\users\emendez\documents\visual studio 2015\Projects\GitFeatures\GitFeatures\obj\Debug\GitFeatures.pdb
