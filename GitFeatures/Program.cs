@@ -11,7 +11,7 @@ namespace GitFeatures
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            for (int i = 1; i < 11; i++)
+            for (int i = 1; i < 6; i++)
             {
                 Console.WriteLine(i);
             }
